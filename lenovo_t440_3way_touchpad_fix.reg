@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\SynTP\Parameters]
+"ExtraCapabilities7Add"=dword:00010000
+"ExtraCapabilities7Mask"=dword:ffffffff
+
+[HKEY_LOCAL_MACHINE\Software\Synaptics\SynTPEnh]
+"ScrollMethod"=dword:00000005
+"SynapticsScrollMethodSpeedFactor"=dword:00005000
